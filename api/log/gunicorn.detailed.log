@@ -1,0 +1,40 @@
+[2023-11-22 15:35:51,753] INFO _log() L224  127.0.0.1 - - [22/Nov/2023 15:35:51] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-11-22 15:35:51,760] INFO _log() L224  127.0.0.1 - - [22/Nov/2023 15:35:51] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-11-22 15:35:51,761] INFO _log() L224  127.0.0.1 - - [22/Nov/2023 15:35:51] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-11-22 15:35:51,928] INFO _log() L224  127.0.0.1 - - [22/Nov/2023 15:35:51] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-11-22 15:38:06,356] INFO _log() L224   * Detected change in '/home/fabiomendes/Área de Trabalho/Trabalho Front End Avançado 2023/desenvolvimento-full-stack-main (1)/desenvolvimento-full-stack-main/desenvolvimento-front-end-avancado/aula-3/api/schemas/produto.py', reloading - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:09:58,814] INFO _log() L224   * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000 (Press CTRL+C to quit) - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:09:58,816] INFO _log() L224   * Restarting with stat - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:10:21,223] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:10:21] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:10:21,280] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:10:21] "GET /openapi/ HTTP/1.1" 200 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:10:21,510] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:10:21] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:10:21,514] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:10:21] "[36mGET /openapi/static/images/redoc.svg HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:10:21,521] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:10:21] "[36mGET /openapi/static/images/rapidoc.svg HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:10:24,302] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:10:24] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:10:24,350] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:10:24] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:10:24,351] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:10:24] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:10:24,354] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:10:24] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:10:24,505] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:10:24] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:11:59,902] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:11:59] "GET /produtos HTTP/1.1" 200 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:18:32,323] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:18:32] "GET /produtos HTTP/1.1" 200 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 09:53:03,476] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 09:53:03] "GET /produtos HTTP/1.1" 200 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:08:12,489] INFO _log() L224   * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000 (Press CTRL+C to quit) - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:08:12,492] INFO _log() L224   * Restarting with stat - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:08:35,298] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 19:08:35] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:08:35,400] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 19:08:35] "GET /openapi/ HTTP/1.1" 200 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:08:35,650] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 19:08:35] "[36mGET /openapi/static/images/redoc.svg HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:08:35,664] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 19:08:35] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:08:35,669] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 19:08:35] "[36mGET /openapi/static/images/rapidoc.svg HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:08:38,125] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 19:08:38] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:08:38,212] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 19:08:38] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:08:38,223] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 19:08:38] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:08:38,225] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 19:08:38] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:08:38,517] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 19:08:38] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:10:22,548] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 19:10:22] "GET /produtos HTTP/1.1" 200 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
+[2023-12-11 19:21:23,510] INFO _log() L224  127.0.0.1 - - [11/Dec/2023 19:21:23] "GET /produtos HTTP/1.1" 200 - - call_trace=/home/fabiomendes/.local/lib/python3.10/site-packages/werkzeug/_internal.py L224 
